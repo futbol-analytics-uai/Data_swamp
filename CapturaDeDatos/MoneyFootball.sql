@@ -2,13 +2,6 @@
 Creacion de la base de datos para Actividad Evaluada.
 Tema de Estudio: "Money FootBall"
 
-Integrantes:
-	Diego Gálvez
-	Nicolás Morales
-	Cinthia Roa
-	Diego Rivera
-*/
-
 CREATE DATABASE moneyfootball;
 
 use moneyfootball;
